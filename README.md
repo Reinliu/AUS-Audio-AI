@@ -1,4 +1,4 @@
-# AUS-audio
+# AUS-Audio-AI
 A list of audio-related companies, research centres, and startups in Australia.
 
 
