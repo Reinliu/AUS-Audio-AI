@@ -4,7 +4,7 @@ A list of audio-related companies, research centres, and startups in Australia.
 
 ## Companies
 
-\url{https://www.dolby.com/}Dolby Laboratories
+[Dolby Laboratories](https://www.dolby.com/)
 
 
 Cochlear
