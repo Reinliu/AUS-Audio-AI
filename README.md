@@ -10,13 +10,20 @@ A list of audio-related companies, research centres, and startups in Australia.
 
 [Audinate](https://www.audinate.com/)
 
-[Dolby Laboratories](https://www.dolby.com/)
 
 
 ## Startups
 
 Unsplash
 
+Aria Research
+
 
 ## Research Labs
+
+CARLAB
+
+UNSW
+
+UTS
 
