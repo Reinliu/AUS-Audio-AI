@@ -10,9 +10,9 @@ A list of audio-related companies, research centres, and startups in Australia.
 
 [Audinate](https://www.audinate.com/): Audio communications, mostly DSP. In Sydney
 
-[Tiktok](): Sometimes they hire audio engineers/researchers for their audio research. Mostly in Sydney.
+[Tiktok](https://lifeattiktok.com/): Sometimes they hire audio engineers/researchers for their audio research. Mostly in Sydney.
 
-[Johnni.ai](https://johnni.ai/?gad_source=1&gad_campaignid=22327961706&gbraid=0AAAAA_DnWq1LSBcjtDLsYZ3XrXEGLU99X&gclid=CjwKCAjwiezABhBZEiwAEbTPGHpYNT99h4m-C7X6iQBeecWhTdXGLNbvFByL_AzTgO8H8cbWABPQ5hoCbJwQAvD_BwE): An AI voice agent company based in Adelaide.
+[Rode](https://rode.com/en): Mainly audio equipment, product design, hardware & software. Based in Sydney.
 
 
 ## Startups
@@ -24,6 +24,8 @@ A list of audio-related companies, research centres, and startups in Australia.
 [Replica](https://www.replicastudios.com/): AI Voice Generation for Creators in games. Based in Brisbane.
 
 [Qsic HQ](https://www.getqsic.com/): AI-driven audio retail media channels for large physical store retailers. Based in Melbourne.
+
+[Johnni.ai](https://johnni.ai/?gad_source=1&gad_campaignid=22327961706&gbraid=0AAAAA_DnWq1LSBcjtDLsYZ3XrXEGLU99X&gclid=CjwKCAjwiezABhBZEiwAEbTPGHpYNT99h4m-C7X6iQBeecWhTdXGLNbvFByL_AzTgO8H8cbWABPQ5hoCbJwQAvD_BwE): An AI voice agent company based in Adelaide.
 
 
 ## Research Labs
