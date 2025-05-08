@@ -12,7 +12,9 @@ A list of audio-related companies, research centres, and startups in Australia.
 
 [Tiktok](): Sometimes they hire audio engineers/researchers for their audio research. Mostly in Sydney.
 
+[Replica](https://www.replicastudios.com/): AI Voice Generation for Creators in games. Based in Brisbane.
 
+[Johnni.ai](https://johnni.ai/?gad_source=1&gad_campaignid=22327961706&gbraid=0AAAAA_DnWq1LSBcjtDLsYZ3XrXEGLU99X&gclid=CjwKCAjwiezABhBZEiwAEbTPGHpYNT99h4m-C7X6iQBeecWhTdXGLNbvFByL_AzTgO8H8cbWABPQ5hoCbJwQAvD_BwE): An AI voice agent company based in Adelaide.
 
 
 ## Startups
