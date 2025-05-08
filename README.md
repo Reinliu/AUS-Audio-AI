@@ -26,13 +26,15 @@ A list of audio-related companies, research centres, and startups in Australia.
 
 ## Research Labs
 
-[CARLAB Computing and Audio Research Lab @ USYD](https://www.sydney.edu.au/engineering/our-research/laboratories-and-facilities/computing-and-audio-research-laboratory.html)
+[CARLAB @ USYD](https://www.sydney.edu.au/engineering/our-research/laboratories-and-facilities/computing-and-audio-research-laboratory.html): Spatial audio, psychoacoustic, AI audio.
 
-[Speech Processing and Auditory Modelling Research Laboratory @ UNSW](https://www2.ee.unsw.edu.au/cochlear-signal-processing-lab/)
+[Speech Processing and Auditory Modelling Research Laboratory @ UNSW](https://www2.ee.unsw.edu.au/cochlear-signal-processing-lab/): Audio emotion analysis.
 
-[Centre for Audio, Acoustics and Vibration @ UTS](https://www.uts.edu.au/research/centres/centre-audio-acoustics-and-vibration)
+[CTRL @ UNSW](https://www.unsw.edu.au/arts-design-architecture/our-schools/art-design/research/research-groups/creative-technologies-research-lab): Creative Technology Research Lab. Music interaction, performing arts, generative music, interactive installation, sound arts.
 
-[Sensilab @ Monash](): Intersection between AI, Art, Music, Interactivity and Design.
+[Centre for Audio, Acoustics and Vibration @ UTS](https://www.uts.edu.au/research/centres/centre-audio-acoustics-and-vibration): Acoustics, architectural audio.
+
+[Sensilab @ Monash](https://sensilab.monash.edu/): Intersection between AI, Art, Music, Interactivity and Design.
 
 [ @ QUT]():
 
