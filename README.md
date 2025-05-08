@@ -40,5 +40,6 @@ A list of audio-related companies, research centres, and startups in Australia.
 
 [ @ QUT]():
 
-[ @ Griffith University]():
+[Interactive Media Lab @ Griffith University](https://www.griffith.edu.au/research/arts-education-law/creative-arts-research-institute/themes/interactive-media-lab): Music technology, interactive music, live music and performance-related technologies. 
 
+[SMCCLAB @ ANU](https://charlesmartin.au/lab/): Sound, Music and Creative Computing Lab led by Dr Charles Martin. Themes include Expressive Musical Sensing, Musical Machine Learning, Musical HCI.
